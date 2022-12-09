@@ -1,0 +1,5 @@
+# Local Netlify folder
+.netlify
+/dist
+/.parcel
+/node_modules
